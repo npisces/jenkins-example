@@ -54,21 +54,11 @@
         </dependency>
 
     </dependencies>
-
-    <repositories>
-        <repository>
-            <id>myMavenRepo.read</id>
-            <url>https://mymavenrepo.com/repo/FN8PIshHk5uALNhkXbhs/</url>
-        </repository>
-    </repositories>
-
      <distributionManagement> 
 		<snapshotRepository>
 		<id>deploymentRepo</id>
 		<name>Internal Releases</name>
 		<url>http://34.73.255.147:8081/repository/maven-snapshots/</url>
-	</snapshotRepository>
-	
+	</snapshotRepository>	
 </distributionManagement>>
-
 </project>
