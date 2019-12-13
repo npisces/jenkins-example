@@ -62,3 +62,7 @@
 	</snapshotRepository>	
 </distributionManagement>
 </project>
+
+</dependency>
+<groupId>org.junit.platform</groupId>
+<artifactId>junit-platform-runner</artifactId>
